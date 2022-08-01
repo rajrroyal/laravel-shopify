@@ -1,5 +1,4 @@
 <?php
-
 namespace Osiset\ShopifyApp\Http\Controllers;
 
 use Illuminate\Routing\Controller;
